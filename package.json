@@ -1,0 +1,21 @@
+{
+  "name": "ci-cd-react-practice",
+  "version": "1.0.0",
+  "description": "Testing some concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrei1524/CI-CD-React-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Andrei1524/CI-CD-React-Practice/issues"
+  },
+  "homepage": "https://github.com/Andrei1524/CI-CD-React-Practice#readme"
+}
